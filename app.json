@@ -22,8 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#26a0da"
+      },
+      "package": "com.juliofilho.SearchMYCep"
     },
     "web": {
       "favicon": "./assets/favicon.png"
